@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+const exec = require("../src");
+
+exec(process.argv);

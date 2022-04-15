@@ -1,0 +1,18 @@
+{
+  "name": "rrtg",
+  "version": "0.0.1",
+  "description": "Random Random Text Generator",
+  "main": "index.js",
+  "files": [
+    "bin",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
+  "bin": {
+    "rrtg": "./bin/run"
+  },
+  "license": "MIT",
+  "author": "Jesse Katsumata",
+  "repository": "git@github.com:Naturalclar/rrtg.git"
+}
